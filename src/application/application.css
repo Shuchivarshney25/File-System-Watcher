@@ -1,0 +1,51 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bordered-titled-title {
+    -fx-background-color: #000000;
+    -fx-translate-y: -11;
+    -fx-padding: 0 0 5 0;
+ 
+}
+ 
+.bordered-titled-border {
+    -fx-content-display: top;
+    -fx-border-insets: 15 0 0 0;
+    -fx-border-color: black;
+    -fx-background-color:white;
+    
+}
+ 
+.bordered-titled-content {
+    -fx-border-insets: 50 0 0 0;
+    -fx-color-label-visible: white;
+   
+}
+.hbox-css
+{
+    -fx-text-fill:#39FF14;
+    -fx-font-size:14;
+    -fx-text-inner-color: blue;
+}
+.btn-css
+{
+	-fx-background-color:rgb(91,91,91);
+	-fx-text-fill:rgb(255,255,255);
+    -fx-border-color:white;
+}
+.btn1-css
+{
+	-fx-background-color:rgb(91,91,91);
+	-fx-text-fill:rgb(255,255,255);
+     -fx-border-color:white;
+}
+.btn2-css
+{
+	-fx-background-color:rgb(91,91,91);
+	-fx-text-fill:rgb(255,255,255);
+     -fx-border-color:white;
+    
+}
+.text-area .content{
+      -fx-background-color: black;
+      -fx-border-color:white;
+ }
+ 
